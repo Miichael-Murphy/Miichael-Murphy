@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I am currently working on Learning the basic of Github and Rstudio
+### I am learning how Github works, as this sh-t wack
+### Macquarie university
+### email: michael.murphy3@students.mq.edu.au
 <!--
 **Miichael-Murphy/Miichael-Murphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
