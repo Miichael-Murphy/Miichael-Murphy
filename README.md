@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am currently working on Learning the basic of Github and Rstudio
+### I am currently working on Learning the basics of Github and Rstudio
 ### I am learning how Github works, as this sh-t wack
 ### Macquarie university
 ### email: michael.murphy3@students.mq.edu.au
